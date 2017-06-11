@@ -1,0 +1,9 @@
+.vs/
+*.suo
+AudioOutputSwitcher/Debug/
+AudioOutputSwitcher/Release/.NETFramework,Version=v4.6.1.AssemblyAttributes.asm
+AudioOutputSwitcher/Release/
+Release/
+AudioOutputSwitcher/AudioOutputSwitcher.vcxproj.filters
+AudioOutputSwitcher/AudioOutputSwitcher.vcxproj.user
+AudioOutputSwitcher.sdf
